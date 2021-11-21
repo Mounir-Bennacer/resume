@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounir-bennacer/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounir-bennacer/resume/issues"
+  },
+  "homepage": "https://github.com/mounir-bennacer/resume#readme",
+  "dependencies": {
+    "fresh-theme-underscore": "^0.1.1",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "jsonresume-theme-spartan": "^0.3.0"
+  }
+}

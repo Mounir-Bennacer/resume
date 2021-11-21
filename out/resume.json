@@ -1,0 +1,111 @@
+{
+  "name": "Mounir Bennacer",
+  "info": {
+    "label": "Backend Developer",
+    "brief": "Backend Developer with 4+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously."
+  },
+  "contact": {
+    "email": "bennacer.mounir@gmail.com"
+  },
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Derby, Derbyshire",
+    "country": "United Kingdom"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Backend Developer",
+        "employer": "Framework Design Agency",
+        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins",
+        "current": true,
+        "start": "2020-09",
+        "url": "https://www.weareframework.co.uk",
+        "keywords": [],
+        "highlights": [
+          "Building a Laravel wrapper around a SOAP API, and creating its methods",
+          "Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.",
+          "Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container",
+          "Integrating a payment system using Laravel."
+        ]
+      },
+      {
+        "position": "Software Developer",
+        "employer": "GRDF",
+        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees.",
+        "current": true,
+        "start": "2020-07",
+        "url": "https://www.grdf.fr",
+        "keywords": [],
+        "highlights": [
+          "Building automated scripts that fetches data from internal databases.",
+          "built a notification system that send emails after each finished task/job for better monitoring",
+          "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%."
+        ]
+      },
+      {
+        "position": "Backend Developer",
+        "employer": "GRDF",
+        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins,",
+        "current": true,
+        "start": "2018-05",
+        "url": "https://www.grdf.fr",
+        "keywords": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Campus HEP - Group IGS",
+        "start": "2012-09",
+        "end": "2014-06",
+        "curriculum": [
+          "Course 1",
+          "Course 2",
+          "Course 2"
+        ],
+        "summary": ""
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web",
+        "level": "advanced",
+        "skills": [
+          "LAMP",
+          "MVC",
+          "REST",
+          "GitHub",
+          "JIRA",
+          "Docker",
+          "VIM"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "intermediate",
+        "skills": [
+          "Node.js",
+          "React.js",
+          "Vue.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "advanced",
+        "skills": [
+          "MySQL",
+          "NoSQL",
+          "ORM"
+        ]
+      }
+    ]
+  }
+}

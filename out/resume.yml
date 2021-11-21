@@ -1,0 +1,71 @@
+basics:
+  name: 'Mounir Bennacer'
+  label: 'Backend Developer'
+  summary: 'Backend Developer with 4+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.'
+  email: bennacer.mounir@gmail.com
+  location:
+    city: 'Derby, Derbyshire'
+    countryCode: 'United Kingdom'
+work:
+  -
+    company: 'Framework Design Agency'
+    website: 'https://www.weareframework.co.uk'
+    position: 'Backend Developer'
+    startDate: 2020-09
+    summary: 'Development of APIs, SOAP wrapper, Craft cms plugins'
+    highlights:
+      - 'Building a Laravel wrapper around a SOAP API, and creating its methods'
+      - 'Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.'
+      - 'Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container'
+      - 'Integrating a payment system using Laravel.'
+  -
+    company: GRDF
+    website: 'https://www.grdf.fr'
+    position: 'Software Developer'
+    startDate: 2020-07
+    summary: 'Development of multiple automated tools to increase productivity to GRDF''s employees.'
+    highlights:
+      - 'Building automated scripts that fetches data from internal databases.'
+      - 'built a notification system that send emails after each finished task/job for better monitoring'
+      - 'Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.'
+  -
+    company: GRDF
+    website: 'https://www.grdf.fr'
+    position: 'Backend Developer'
+    startDate: 2018-05
+    summary: 'Development of APIs, SOAP wrapper, Craft cms plugins,'
+education:
+  -
+    institution: 'Campus HEP - Group IGS'
+    courses:
+      - 'Course 1'
+      - 'Course 2'
+      - 'Course 2'
+    startDate: 2012-09
+    endDate: 2014-06
+skills:
+  -
+    name: Web
+    level: advanced
+    keywords:
+      - LAMP
+      - MVC
+      - REST
+      - GitHub
+      - JIRA
+      - Docker
+      - VIM
+  -
+    name: JavaScript
+    level: intermediate
+    keywords:
+      - Node.js
+      - React.js
+      - Vue.js
+  -
+    name: Database
+    level: advanced
+    keywords:
+      - MySQL
+      - NoSQL
+      - ORM
