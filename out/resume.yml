@@ -1,7 +1,7 @@
 basics:
   name: 'Mounir Bennacer'
-  label: 'Backend Developer'
-  summary: 'Backend Developer with 4+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.'
+  label: 'Backend Engineer'
+  summary: 'Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.'
   email: bennacer.mounir@gmail.com
   location:
     city: 'Derby, Derbyshire'
@@ -22,18 +22,21 @@ work:
     company: GRDF
     website: 'https://www.grdf.fr'
     position: 'Software Developer'
-    startDate: 2020-07
-    summary: 'Development of multiple automated tools to increase productivity to GRDF''s employees.'
+    startDate: 2018-05
+    endDate: 2020-07
+    summary: 'Development of multiple automated tools to increase productivity to GRDF''s employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.'
     highlights:
       - 'Building automated scripts that fetches data from internal databases.'
       - 'built a notification system that send emails after each finished task/job for better monitoring'
       - 'Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.'
+      - 'created intranet websites for gaz meter creation, with ACL.'
   -
     company: GRDF
     website: 'https://www.grdf.fr'
-    position: 'Backend Developer'
-    startDate: 2018-05
-    summary: 'Development of APIs, SOAP wrapper, Craft cms plugins,'
+    position: 'Process, Delivery and Workflow Co-ordinator'
+    startDate: 2012-09
+    endDate: 2018-05
+    summary: 'Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken'
 education:
   -
     institution: 'Campus HEP - Group IGS'
@@ -52,6 +55,7 @@ skills:
       - MVC
       - REST
       - GitHub
+      - Docker
       - JIRA
       - Docker
       - VIM
@@ -69,3 +73,4 @@ skills:
       - MySQL
       - NoSQL
       - ORM
+      - MongoDB

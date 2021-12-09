@@ -1,8 +1,8 @@
 {
   "name": "Mounir Bennacer",
   "info": {
-    "label": "Backend Developer",
-    "brief": "Backend Developer with 4+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously."
+    "label": "Backend Engineer",
+    "brief": "Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously."
   },
   "contact": {
     "email": "bennacer.mounir@gmail.com"
@@ -35,23 +35,24 @@
       {
         "position": "Software Developer",
         "employer": "GRDF",
-        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees.",
-        "current": true,
-        "start": "2020-07",
+        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.",
+        "start": "2018-05",
+        "end": "2020-07",
         "url": "https://www.grdf.fr",
         "keywords": [],
         "highlights": [
           "Building automated scripts that fetches data from internal databases.",
           "built a notification system that send emails after each finished task/job for better monitoring",
-          "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%."
+          "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.",
+          "created intranet websites for gaz meter creation, with ACL."
         ]
       },
       {
-        "position": "Backend Developer",
+        "position": "Process, Delivery and Workflow Co-ordinator",
         "employer": "GRDF",
-        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins,",
-        "current": true,
-        "start": "2018-05",
+        "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken",
+        "start": "2012-09",
+        "end": "2018-05",
         "url": "https://www.grdf.fr",
         "keywords": []
       }
@@ -83,6 +84,7 @@
           "MVC",
           "REST",
           "GitHub",
+          "Docker",
           "JIRA",
           "Docker",
           "VIM"
@@ -103,7 +105,8 @@
         "skills": [
           "MySQL",
           "NoSQL",
-          "ORM"
+          "ORM",
+          "MongoDB"
         ]
       }
     ]

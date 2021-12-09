@@ -5,9 +5,9 @@
       "version": "0.0.1"
 },
   "info": { 
-  "label": "Backend Developer",
+  "label": "Backend Engineer",
   "CharacterClass": "Programmer",
-  "brief": "Backend Developer with 4+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.",
+  "brief": "Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.",
   "quote": "Today i choose to become better than i was yesterday."
   },
   "contact": { 
@@ -20,7 +20,7 @@
   "country": "United Kingdom"
 },
   "employment": {
-    "summary": "4+ years industry IT and software development experience",
+    "summary": "3+ years industry IT and software development experience",
     "history":[
       {
         "employer": "Framework Design Agency",
@@ -28,7 +28,7 @@
         "position": "Backend Developer",
         "summary": "Development of APIs, SOAP wrapper, Craft cms plugins",
         "start": "2020-09",
-        "keywords": ["PHP", "Laravel", "Vue.js", "Tailwind.css", "Livewire","Docker", "Craft cms", "MySQL"],
+        "keywords": ["PHP", "Laravel", "Vue.js", "Tailwind.css", "Livewire", "Docker", "Craft cms", "MySQL"],
         "highlights": [ "Building a Laravel wrapper around a SOAP API, and creating its methods", "Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity." , "Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container" , "Integrating a payment system using Laravel."
       ]
     },
@@ -36,21 +36,21 @@
         "employer": "GRDF",
         "url": "https://www.grdf.fr",
         "position": "Software Developer",
-        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees.",
+        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.",
         "start": "2018-05",
-        "start": "2020-07",
+        "end": "2020-07",
         "keywords": ["PHP", "Laravel", "Bootstrap", "MySQL"],
-        "highlights": [ "Building automated scripts that fetches data from internal databases.", "built a notification system that send emails after each finished task/job for better monitoring", "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%."
+        "highlights": [ "Building automated scripts that fetches data from internal databases.", "built a notification system that send emails after each finished task/job for better monitoring", "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.", "created intranet websites for gaz meter creation, with ACL."
       ]
     },
       {
         "employer": "GRDF",
         "url": "https://www.grdf.fr",
-        "position": "Backend Developer",
-        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins,",
+        "position": "Process, Delivery and Workflow Co-ordinator",
+        "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken", 
         "start": "2012-09",
-        "start": "2018-05",
-        "keywords": ["PHP", "Laravel", "Bootstrap", "MySQL"]
+        "end": "2018-05",
+        "keywords": ["Quality", "Improvement", "Growth"]
     }
   ]
   },
@@ -74,7 +74,7 @@
       {
         "name": "Web",
         "level": "advanced",
-        "skills": [ "LAMP", "MVC", "REST", "GitHub", "JIRA", "Docker", "VIM" ]
+        "skills": [ "LAMP", "MVC", "REST", "GitHub", "Docker", "JIRA", "Docker", "VIM" ]
       },
       {
         "name": "JavaScript",
@@ -84,7 +84,7 @@
       {
         "name": "Database",
         "level": "advanced",
-        "skills": [ "MySQL", "NoSQL", "ORM"        ] 
+        "skills": [ "MySQL", "NoSQL", "ORM", "MongoDB" ] 
       }
     ],
 
@@ -130,8 +130,7 @@
      {
       "name": "Ronan-Ghuilhem Matheudi",
       "flavor": "professional",
-      "quote": "Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it",
-      "private": true
+      "quote": "Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it"
     },
 {
       "name": "Frank den Hartog",
