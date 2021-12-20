@@ -14,10 +14,12 @@ work:
     startDate: 2020-09
     summary: 'Development of APIs, SOAP wrapper, Craft cms plugins'
     highlights:
-      - 'Building multiple Laravel wrapper around SOAP APIs, adding its methods'
-      - 'Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.'
-      - 'Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container'
+      - 'Developed APIs for the company’s internal and external clients'
+      - 'Building multiple Laravel wrappers around SOAP APIs'
+      - 'Fullstack project using Laravel, Livewire, Tailwind.css, building projects using tailwind.css for the frontend and Livewire & Alpine for the interactivity.'
+      - 'Used Docker containers to create Craft Commerce plugins and modules that interact with third party APIs, creating invoices, syncing stocks and customers, updating product''s quantity and price'
       - 'Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks).'
+      - 'Bug fixing and refactoring of multiple Laravel projects'
   -
     company: GRDF
     website: 'https://www.grdf.fr'
