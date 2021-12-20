@@ -1,143 +1,214 @@
 {
-  "name": "Mounir Bennacer",
-  "meta": { 
-      "format": "FRESH@0.6.0",
-      "version": "0.0.1"
-},
-  "info": { 
-  "label": "Backend Engineer",
-  "CharacterClass": "Programmer",
-  "brief": "Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.",
-  "quote": "Today i choose to become better than i was yesterday."
-  },
-  "contact": { 
-  "email": "bennacer.mounir@gmail.com",
-  "github": "github.com/mounir-bennacer",
-  "twitter": "mounir.bennacer"
-},
-  "location": { 
-  "city": "Derby, Derbyshire",
-  "country": "United Kingdom"
-},
-  "employment": {
-    "summary": "3+ years industry IT and software development experience",
-    "history":[
-      {
-        "employer": "Framework Design Agency",
-        "url": "https://www.weareframework.co.uk",
-        "position": "Backend Developer",
-        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins",
-        "start": "2020-09",
-        "keywords": ["PHP", "Laravel", "Vue.js", "Tailwind.css", "Livewire", "Docker", "Craft cms", "MySQL"],
-        "highlights": [ "Building a Laravel wrapper around a SOAP API, and creating its methods", "Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity." , "Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container" , "Integrating a payment system using Laravel."
-      ]
+    "name": "Mounir Bennacer",
+    "meta": {
+        "format": "FRESH@0.6.0",
+        "version": "0.0.1"
     },
-      {
-        "employer": "GRDF",
-        "url": "https://www.grdf.fr",
-        "position": "Software Developer",
-        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.",
-        "start": "2018-05",
-        "end": "2020-07",
-        "keywords": ["PHP", "Laravel", "Bootstrap", "MySQL"],
-        "highlights": [ "Building automated scripts that fetches data from internal databases.", "built a notification system that send emails after each finished task/job for better monitoring", "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.", "created intranet websites for gaz meter creation, with ACL."
-      ]
+    "info": {
+        "label": "Backend Engineer",
+        "CharacterClass": "Programmer",
+        "brief": "Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.",
+        "quote": "Today i choose to become better than i was yesterday."
     },
-      {
-        "employer": "GRDF",
-        "url": "https://www.grdf.fr",
-        "position": "Process, Delivery and Workflow Co-ordinator",
-        "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken", 
-        "start": "2012-09",
-        "end": "2018-05",
-        "keywords": ["Quality", "Improvement", "Growth"]
+    "contact": {
+        "email": "bennacer.mounir@gmail.com",
+        "github": "github.com/mounir-bennacer",
+        "twitter": "mounir.bennacer"
+    },
+    "location": {
+        "city": "Derby, Derbyshire",
+        "country": "United Kingdom"
+    },
+    "employment": {
+        "summary": "3+ years industry IT and software development experience",
+        "history": [
+            {
+                "employer": "Framework Design Agency",
+                "url": "https://www.weareframework.co.uk",
+                "position": "Backend Developer",
+                "summary": "Development of APIs, SOAP wrapper, Craft cms plugins",
+                "start": "2020-09",
+                "keywords": [
+                    "PHP",
+                    "Laravel",
+                    "Vue.js",
+                    "Tailwind.css",
+                    "Livewire",
+                    "Docker",
+                    "Craft cms",
+                    "MySQL"
+                ],
+                "highlights": [
+                    "Building multiple Laravel wrapper around SOAP APIs, adding its methods",
+                    "Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.",
+                    "Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container",
+                    "Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks)."
+                ]
+            },
+            {
+                "employer": "GRDF",
+                "url": "https://www.grdf.fr",
+                "position": "Software Developer",
+                "summary": "Development of multiple automated tools to increase productivity to GRDF's employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.",
+                "start": "2018-05",
+                "end": "2020-07",
+                "keywords": [
+                    "PHP",
+                    "Laravel",
+                    "Bootstrap",
+                    "MySQL"
+                ],
+                "highlights": [
+                    "Building automated scripts that fetches data from internal databases.",
+                    "built a notification system that send emails after each finished task/job for better monitoring",
+                    "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.",
+                    "created intranet websites for gaz meter creation, with ACL."
+                ]
+            },
+            {
+                "employer": "GRDF",
+                "url": "https://www.grdf.fr",
+                "position": "Process, Delivery and Workflow Co-ordinator",
+                "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken",
+                "start": "2012-09",
+                "end": "2018-05",
+                "keywords": [
+                    "Quality",
+                    "Improvement",
+                    "Growth"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "level": "Degree",
+        "degree": "BTEC HNC High Order Diploma",
+        "history": [
+            {
+                "institution": "Campus HEP - Group IGS",
+                "title": "BTS",
+                "url": "https://www.cornell.edu/",
+                "start": "2012-09",
+                "end": "2014-06",
+                "summary": "A multiline summary of the education.",
+                "curriculum": [
+                    "Course 1",
+                    "Course 2",
+                    "Course 2"
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "sets": [
+            {
+                "name": "Web",
+                "level": "advanced",
+                "skills": [
+                    "Linux",
+                    "LAMP",
+                    "MVC",
+                    "REST",
+                    "GitHub",
+                    "Docker",
+                    "JIRA",
+                    "Docker",
+                    "VIM"
+                ]
+            },
+            {
+                "name": "JavaScript",
+                "level": "intermediate",
+                "languages": [
+                    "Node.js",
+                    "React.js",
+                    "Vue.js"
+                ]
+            },
+            {
+                "name": "Scripting",
+                "level": "intermediate",
+                "languages": [
+                    "Python",
+                    "Go",
+                    "Bash"
+                ]
+            },
+            {
+                "name": "Database",
+                "level": "advanced",
+                "skills": [
+                    "MySQL",
+                    "NoSQL",
+                    "ORM",
+                    "MongoDB"
+                ]
+            },
+            {
+                "name": "Backend",
+                "level": "advanced",
+                "skills": [
+                    "PHP",
+                    "Laravel",
+                    "NodeJS",
+                    "ExpressJS",
+                    "Python",
+                    "Go",
+                    "Docker",
+                    "MySQL",
+                    "MongoDB"
+                ]
+            }
+        ],
+        "list": [
+            {
+                "name": "Laravel",
+                "id": "1",
+                "summary": "Great ",
+                "level": "9",
+                "years": 4
+            },
+            {
+                "name": "Express.js",
+                "id": "2",
+                "summary": "Built a side project named excuses-generator using MangoDB, Express.js, Vue.js and Node.js",
+                "level": "4",
+                "years": "~1",
+                "proof": "https://github.com/Mounir-Bennacer/excuses-generator/tree/develop"
+            },
+            {
+                "name": "Agile",
+                "id": "3",
+                "summary": "Maintain project schedules and tasks, identify problems and formulate alternative solutions, collaborate with other part of product development team.",
+                "level": "6",
+                "years": 2
+            }
+        ],
+        "languages": [
+            {
+                "language": "English",
+                "level": "Moderate"
+            },
+            {
+                "language": "Arabic",
+                "level": "Native"
+            },
+            {
+                "language": "French",
+                "level": "Native"
+            }
+        ],
+        "testimonials": [
+            {
+                "name": "Ronan-Ghuilhem Matheudi",
+                "flavor": "professional",
+                "quote": "Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it"
+            },
+            {
+                "name": "Frank den Hartog",
+                "flavor": "technical",
+                "quote": "We worked together in a game development project. Mounir is a resposable dedicated projectpartner you can rely on."
+            }
+        ]
     }
-  ]
-  },
-  "education": {
-    "level": "Degree",
-    "degree": "BTEC HNC High Order Diploma",
-    "history": [
-      {
-        "institution": "Campus HEP - Group IGS",
-        "title": "BTS",
-        "url": "https://www.cornell.edu/",
-        "start": "2012-09",
-        "end": "2014-06",
-        "summary": "A multiline summary of the education.",
-        "curriculum": ["Course 1", "Course 2", "Course 2"]
-    }
-  ]
-  },
-  "skills": {
-"sets": [
-      {
-        "name": "Web",
-        "level": "advanced",
-        "skills": [ "LAMP", "MVC", "REST", "GitHub", "Docker", "JIRA", "Docker", "VIM" ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "intermediate",
-        "skills": [ "Node.js", "React.js", "Vue.js" ]
-      },
-      {
-        "name": "Database",
-        "level": "advanced",
-        "skills": [ "MySQL", "NoSQL", "ORM", "MongoDB" ] 
-      }
-    ],
-
-    "list": [
-      {
-        "name": "Laravel",
-        "id": "1",
-        "summary": "Great ",
-        "level": "9",
-        "years": 4
-      },
-      {
-        "name": "Express.js",
-        "id": "2",
-        "summary": "Built a side project named excuses-generator using MangoDB, Express.js, Vue.js and Node.js",
-        "level": "4",
-        "years": "~1",
-        "proof": "https://github.com/Mounir-Bennacer/excuses-generator/tree/develop"
-      },
-      {
-        "name": "Agile",
-        "id": "3",
-        "summary": "Maintain project schedules and tasks, identify problems and formulate alternative solutions, collaborate with other part of product development team.",
-        "level": "6",
-        "years": 2
-      }
-    ], 
-  "languages": [
-    {
-      "language": "English",
-      "level": "Moderate"
-    },
-    {
-      "language": "Arabic",
-      "level": "Native"
-    },
-    {
-      "language": "French",
-      "level": "Native"
-    }
-],
-  "testimonials": [
-     {
-      "name": "Ronan-Ghuilhem Matheudi",
-      "flavor": "professional",
-      "quote": "Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it"
-    },
-{
-      "name": "Frank den Hartog",
-      "flavor": "technical",
-      "quote": "We worked together in a game development project. Mounir is a resposable dedicated projectpartner you can rely on."
-    }
-] 
 }
-}
- 

@@ -14,10 +14,10 @@ work:
     startDate: 2020-09
     summary: 'Development of APIs, SOAP wrapper, Craft cms plugins'
     highlights:
-      - 'Building a Laravel wrapper around a SOAP API, and creating its methods'
+      - 'Building multiple Laravel wrapper around SOAP APIs, adding its methods'
       - 'Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.'
       - 'Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container'
-      - 'Integrating a payment system using Laravel.'
+      - 'Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks).'
   -
     company: GRDF
     website: 'https://www.grdf.fr'
@@ -51,6 +51,7 @@ skills:
     name: Web
     level: advanced
     keywords:
+      - Linux
       - LAMP
       - MVC
       - REST
@@ -62,10 +63,9 @@ skills:
   -
     name: JavaScript
     level: intermediate
-    keywords:
-      - Node.js
-      - React.js
-      - Vue.js
+  -
+    name: Scripting
+    level: intermediate
   -
     name: Database
     level: advanced
@@ -73,4 +73,17 @@ skills:
       - MySQL
       - NoSQL
       - ORM
+      - MongoDB
+  -
+    name: Backend
+    level: advanced
+    keywords:
+      - PHP
+      - Laravel
+      - NodeJS
+      - ExpressJS
+      - Python
+      - Go
+      - Docker
+      - MySQL
       - MongoDB

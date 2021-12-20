@@ -1,0 +1,3 @@
+name: 'My Personal Resume'
+author: 'Mounir Bennacer'
+description: 'After each commit to the main branch, it fire hackmyresume and rebuild its content with the newly added content.'

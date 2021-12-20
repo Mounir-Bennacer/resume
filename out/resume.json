@@ -26,10 +26,10 @@
         "url": "https://www.weareframework.co.uk",
         "keywords": [],
         "highlights": [
-          "Building a Laravel wrapper around a SOAP API, and creating its methods",
+          "Building multiple Laravel wrapper around SOAP APIs, adding its methods",
           "Fullstack project using Laravel, Livewire, Tailwind.css, building a project using tailwind.css for the frontend and Livewire & Alpine for the interactivity.",
           "Creating a Craft commerce plugin that interact with a third party API, creating invoices, using a Docker container",
-          "Integrating a payment system using Laravel."
+          "Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks)."
         ]
       },
       {
@@ -80,6 +80,7 @@
         "name": "Web",
         "level": "advanced",
         "skills": [
+          "Linux",
           "LAMP",
           "MVC",
           "REST",
@@ -92,12 +93,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "intermediate",
-        "skills": [
-          "Node.js",
-          "React.js",
-          "Vue.js"
-        ]
+        "level": "intermediate"
+      },
+      {
+        "name": "Scripting",
+        "level": "intermediate"
       },
       {
         "name": "Database",
@@ -106,6 +106,21 @@
           "MySQL",
           "NoSQL",
           "ORM",
+          "MongoDB"
+        ]
+      },
+      {
+        "name": "Backend",
+        "level": "advanced",
+        "skills": [
+          "PHP",
+          "Laravel",
+          "NodeJS",
+          "ExpressJS",
+          "Python",
+          "Go",
+          "Docker",
+          "MySQL",
           "MongoDB"
         ]
       }
