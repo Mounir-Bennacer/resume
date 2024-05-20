@@ -1,131 +1,218 @@
 {
-  "name": "Mounir Bennacer",
-  "info": {
+  "basics": {
+    "name": "Mounir Bennacer",
     "label": "Backend Engineer",
-    "brief": "Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously."
-  },
-  "contact": {
-    "email": "bennacer.mounir@gmail.com"
-  },
-  "meta": {
-    "format": "FRESH@0.6.0",
-    "version": "0.1.0"
-  },
-  "location": {
-    "city": "Derby, Derbyshire",
-    "country": "United Kingdom"
-  },
-  "employment": {
-    "history": [
+    "summary": "Seasoned Backend Engineer with 5+ years of experience designing and implementing scalable, high-performance web applications. Skilled at identifying complex problems, proposing innovative solutions, and working collaboratively within cross-functional teams to deliver exceptional results. Adept at managing multiple concurrent projects and maintaining a keen focus on delivering robust, secure, and efficient backend systems.",
+    "email": "bennacer.mounir@gmail.com",
+    "location": {
+      "city": "London"
+    },
+    "profiles": [
       {
-        "position": "Backend Developer",
-        "employer": "Framework Design Agency",
-        "summary": "Development of APIs, SOAP wrapper, Craft cms plugins",
-        "current": true,
-        "start": "2020-09",
-        "url": "https://www.weareframework.co.uk",
-        "keywords": [],
-        "highlights": [
-          "Developed APIs for the company’s internal and external clients",
-          "Building multiple Laravel wrappers around SOAP APIs",
-          "Fullstack project using Laravel, Livewire, Tailwind.css, building projects using tailwind.css for the frontend and Livewire & Alpine for the interactivity.",
-          "Used Docker containers to create Craft Commerce plugins and modules that interact with third party APIs, creating invoices, syncing stocks and customers, updating product's quantity and price",
-          "Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks).",
-          "Bug fixing and refactoring of multiple Laravel projects"
-        ]
+        "network": "github",
+        "username": "mounir-bennacer",
+        "url": "http://github.com/mounir-bennacer"
       },
       {
-        "position": "Software Developer",
-        "employer": "GRDF",
-        "summary": "Development of multiple automated tools to increase productivity to GRDF's employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.",
-        "start": "2018-05",
-        "end": "2020-07",
-        "url": "https://www.grdf.fr",
-        "keywords": [],
-        "highlights": [
-          "Building automated scripts that fetches data from internal databases.",
-          "built a notification system that send emails after each finished task/job for better monitoring",
-          "Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.",
-          "created intranet websites for gaz meter creation, with ACL."
-        ]
+        "network": "linkedin",
+        "username": "mounir-bennacer",
+        "url": "http://linkedin.com/in/mounir-bennacer"
       },
       {
-        "position": "Process, Delivery and Workflow Co-ordinator",
-        "employer": "GRDF",
-        "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken",
-        "start": "2012-09",
-        "end": "2018-05",
-        "url": "https://www.grdf.fr",
-        "keywords": []
+        "network": "twitter",
+        "username": "mounir.bennacer",
+        "url": "http://twitter.com/mounir.bennacer"
       }
     ]
   },
-  "education": {
-    "level": "",
-    "history": [
-      {
-        "institution": "Campus HEP - Group IGS",
-        "start": "2012-09",
-        "end": "2014-06",
-        "curriculum": [
-          "Course 1",
-          "Course 2",
-          "Course 2"
-        ],
-        "summary": ""
-      }
-    ]
-  },
-  "skills": {
-    "sets": [
-      {
-        "name": "Web",
-        "level": "advanced",
-        "skills": [
-          "Linux",
-          "LAMP",
-          "MVC",
-          "REST",
-          "GitHub",
-          "Docker",
-          "JIRA",
-          "Docker",
-          "VIM"
-        ]
-      },
-      {
-        "name": "JavaScript",
-        "level": "intermediate"
-      },
-      {
-        "name": "Scripting",
-        "level": "intermediate"
-      },
-      {
-        "name": "Database",
-        "level": "advanced",
-        "skills": [
-          "MySQL",
-          "NoSQL",
-          "ORM",
-          "MongoDB"
-        ]
-      },
-      {
-        "name": "Backend",
-        "level": "advanced",
-        "skills": [
-          "PHP",
-          "Laravel",
-          "NodeJS",
-          "ExpressJS",
-          "Python",
-          "Go",
-          "Docker",
-          "MySQL",
-          "MongoDB"
-        ]
-      }
-    ]
-  }
+  "work": [
+    {
+      "position": "Backend Developer",
+      "startDate": "2021-02",
+      "summary": "Architected and developed scalable, high-performance APIs to facilitate seamless data exchange, Optimized database performance for enhanced scalability and responsiveness, Automated CI/CD pipelines using GitHub Actions for efficient deployments, Integrated AWS services including EC2 instances, RDS databases, and SNS notifications, Collaborated closely with cross-functional teams to deliver impactful solutions, Conducted in-depth security audits using the OWASP Top 10 framework and implemented robust secure coding practices to address vulnerabilities such as IDOR, XSS, data validation, sanitization, and SQL injection, ensuring the delivery of secure, resilient backend systems.",
+      "highlights": [
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Knex.js",
+        "Git",
+        "GitHub Actions",
+        "AWS",
+        "DevOps",
+        "OWASP",
+        "Penetration Testing",
+        "API Development",
+        "RESTful APIs",
+        "Database Optimization",
+        "CI/CD Automation",
+        "Cloud Architecture",
+        "Serverless Computing",
+        "Microservices",
+        "Event-Driven Architecture",
+        "Scalability and Performance",
+        "Monitoring and Observability",
+        "Secure Coding Practices",
+        "Vulnerability Assessment",
+        "Incident Response",
+        "Agile Methodologies",
+        "Cross-functional Collaboration",
+        "Problem-solving",
+        "Continuous Learning"
+      ]
+    },
+    {
+      "position": "Backend Developer",
+      "startDate": "2020-09",
+      "endDate": "2020-01",
+      "summary": "Developed APIs for the company’s internal and external clients, Building multiple Laravel wrappers around SOAP APIs, Fullstack project using Laravel, Livewire, Tailwind.css, building projects using tailwind.css for the frontend and Livewire & Alpine for the interactivity, Used Docker containers to create Craft Commerce plugins and modules that interact with third party APIs, creating invoices, syncing stocks and customers, updating product's quantity and price, Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks), Bug fixing and refactoring of multiple Laravel projects"
+    },
+    {
+      "website": "https://www.grdf.fr",
+      "position": "Software Developer",
+      "startDate": "2018-05",
+      "endDate": "2020-07",
+      "summary": "Building automated scripts that fetches data from internal databases, built a notification system that send emails after each finished task/job for better monitoring, Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%, created intranet websites for gaz meter creation, with ACL"
+    },
+    {
+      "website": "https://www.grdf.fr",
+      "position": "Process, Delivery and Workflow Co-ordinator",
+      "startDate": "2012-09",
+      "endDate": "2018-05",
+      "summary": "Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Campus HEP - Group IGS",
+      "startDate": "2012-09",
+      "endDate": "2014-06",
+      "area": "Computer Science",
+      "studyType": "BTEC HNC High Order Diploma"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "advanced",
+      "keywords": [
+        "Linux",
+        "LAMP",
+        "MVC",
+        "REST",
+        "GitHub",
+        "Docker",
+        "JIRA",
+        "Docker",
+        "VIM"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "advanced",
+      "keywords": [
+        "Node.js",
+        "React.js",
+        "Express.js",
+        "Knex.js",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "intermediate",
+      "keywords": [
+        "Python",
+        "Go",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "advanced",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "advanced",
+      "keywords": [
+        "NodeJS",
+        "ExpressJS",
+        "PHP",
+        "Laravel",
+        "Python",
+        "Go",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "advanced",
+      "keywords": [
+        "OWASP",
+        "Secure Coding",
+        "Vulnerability Mitigation",
+        "Penetration Testing"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": [
+        "Self-Improvement",
+        "Psychology"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "FPS",
+        "RPG",
+        "Strategy",
+        "Chess"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Algeria",
+        "France",
+        "United Kingdom",
+        "Emirates"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Ronan-Ghuilhem Matheudi",
+      "reference": "Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it"
+    },
+    {
+      "name": "Frank den Hartog",
+      "reference": "We worked together in a game development project. Mounir is a resposable dedicated projectpartner you can rely on."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Moderate"
+    },
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "French",
+      "level": "Native"
+    }
+  ]
 }

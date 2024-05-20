@@ -1,91 +1,197 @@
-basics:
-  name: 'Mounir Bennacer'
+name: 'Mounir Bennacer'
+info:
   label: 'Backend Engineer'
-  summary: 'Backend Engineer with 3+ years industry experience with excellent teamwork. Specializes in problem identification and proposal of alternative solutions. Adept at working on multiple projects simultaneously.'
+  brief: 'Seasoned Backend Engineer with 5+ years of experience designing and implementing scalable, high-performance web applications. Skilled at identifying complex problems, proposing innovative solutions, and working collaboratively within cross-functional teams to deliver exceptional results. Adept at managing multiple concurrent projects and maintaining a keen focus on delivering robust, secure, and efficient backend systems.'
+contact:
   email: bennacer.mounir@gmail.com
-  location:
-    city: 'Derby, Derbyshire'
-    countryCode: 'United Kingdom'
-work:
-  -
-    company: 'Framework Design Agency'
-    website: 'https://www.weareframework.co.uk'
-    position: 'Backend Developer'
-    startDate: 2020-09
-    summary: 'Development of APIs, SOAP wrapper, Craft cms plugins'
-    highlights:
-      - 'Developed APIs for the company’s internal and external clients'
-      - 'Building multiple Laravel wrappers around SOAP APIs'
-      - 'Fullstack project using Laravel, Livewire, Tailwind.css, building projects using tailwind.css for the frontend and Livewire & Alpine for the interactivity.'
-      - 'Used Docker containers to create Craft Commerce plugins and modules that interact with third party APIs, creating invoices, syncing stocks and customers, updating product''s quantity and price'
-      - 'Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks).'
-      - 'Bug fixing and refactoring of multiple Laravel projects'
-  -
-    company: GRDF
-    website: 'https://www.grdf.fr'
-    position: 'Software Developer'
-    startDate: 2018-05
-    endDate: 2020-07
-    summary: 'Development of multiple automated tools to increase productivity to GRDF''s employees using Excel VBA scripts, built intranet websites for Gaz meter tracking for newly created buildings/houses.'
-    highlights:
-      - 'Building automated scripts that fetches data from internal databases.'
-      - 'built a notification system that send emails after each finished task/job for better monitoring'
-      - 'Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%.'
-      - 'created intranet websites for gaz meter creation, with ACL.'
-  -
-    company: GRDF
-    website: 'https://www.grdf.fr'
-    position: 'Process, Delivery and Workflow Co-ordinator'
-    startDate: 2012-09
-    endDate: 2018-05
-    summary: 'Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken'
+meta:
+  theme: macchiato
+  format: FRESH@0.6.0
+  version: 0.1.0
+location:
+  city: London
+employment:
+  history:
+    -
+      position: 'Backend Developer'
+      summary: 'Architected and developed scalable, high-performance APIs to facilitate seamless data exchange, Optimized database performance for enhanced scalability and responsiveness, Automated CI/CD pipelines using GitHub Actions for efficient deployments, Integrated AWS services including EC2 instances, RDS databases, and SNS notifications, Collaborated closely with cross-functional teams to deliver impactful solutions, Conducted in-depth security audits using the OWASP Top 10 framework and implemented robust secure coding practices to address vulnerabilities such as IDOR, XSS, data validation, sanitization, and SQL injection, ensuring the delivery of secure, resilient backend systems.'
+      current: true
+      start: 2021-02
+      keywords: []
+      highlights:
+        - Node.js
+        - Express.js
+        - PostgreSQL
+        - Knex.js
+        - Git
+        - 'GitHub Actions'
+        - AWS
+        - DevOps
+        - OWASP
+        - 'Penetration Testing'
+        - 'API Development'
+        - 'RESTful APIs'
+        - 'Database Optimization'
+        - 'CI/CD Automation'
+        - 'Cloud Architecture'
+        - 'Serverless Computing'
+        - Microservices
+        - 'Event-Driven Architecture'
+        - 'Scalability and Performance'
+        - 'Monitoring and Observability'
+        - 'Secure Coding Practices'
+        - 'Vulnerability Assessment'
+        - 'Incident Response'
+        - 'Agile Methodologies'
+        - 'Cross-functional Collaboration'
+        - Problem-solving
+        - 'Continuous Learning'
+    -
+      position: 'Backend Developer'
+      summary: 'Developed APIs for the company’s internal and external clients, Building multiple Laravel wrappers around SOAP APIs, Fullstack project using Laravel, Livewire, Tailwind.css, building projects using tailwind.css for the frontend and Livewire & Alpine for the interactivity, Used Docker containers to create Craft Commerce plugins and modules that interact with third party APIs, creating invoices, syncing stocks and customers, updating product''s quantity and price, Integrating payment systems on Laravel (Stripe, BlueSnap, QuickBooks), Bug fixing and refactoring of multiple Laravel projects'
+      start: 2020-09
+      end: 2020-01
+      keywords: []
+    -
+      position: 'Software Developer'
+      summary: 'Building automated scripts that fetches data from internal databases, built a notification system that send emails after each finished task/job for better monitoring, Created scripts that run overnight before working hours with CRONTAB increasing productivity by 25%, created intranet websites for gaz meter creation, with ACL'
+      start: 2018-05
+      end: 2020-07
+      url: 'https://www.grdf.fr'
+      keywords: []
+    -
+      position: 'Process, Delivery and Workflow Co-ordinator'
+      summary: 'Co-ordinating work requirements with engineers in a timely manner, speaking to the clients and taking ownership of their experience, clearly communicating actions required and actions taken'
+      start: 2012-09
+      end: 2018-05
+      url: 'https://www.grdf.fr'
+      keywords: []
 education:
-  -
-    institution: 'Campus HEP - Group IGS'
-    courses:
-      - 'Course 1'
-      - 'Course 2'
-      - 'Course 2'
-    startDate: 2012-09
-    endDate: 2014-06
+  level: ""
+  history:
+    -
+      institution: 'Campus HEP - Group IGS'
+      start: 2012-09
+      end: 2014-06
+      summary: ""
+      area: 'Computer Science'
+      studyType: 'BTEC HNC High Order Diploma'
 skills:
+  sets:
+    -
+      name: Web
+      level: advanced
+      skills:
+        - Linux
+        - LAMP
+        - MVC
+        - REST
+        - GitHub
+        - Docker
+        - JIRA
+        - Docker
+        - VIM
+    -
+      name: JavaScript
+      level: advanced
+      skills:
+        - Node.js
+        - React.js
+        - Express.js
+        - Knex.js
+        - Jest
+    -
+      name: Scripting
+      level: intermediate
+      skills:
+        - Python
+        - Go
+        - Bash
+    -
+      name: Database
+      level: advanced
+      skills:
+        - PostgreSQL
+        - MySQL
+        - MongoDB
+        - Redis
+    -
+      name: Backend
+      level: advanced
+      skills:
+        - NodeJS
+        - ExpressJS
+        - PHP
+        - Laravel
+        - Python
+        - Go
+        - Docker
+        - PostgreSQL
+        - MySQL
+        - MongoDB
+        - Redis
+    -
+      name: Security
+      level: advanced
+      skills:
+        - OWASP
+        - 'Secure Coding'
+        - 'Vulnerability Mitigation'
+        - 'Penetration Testing'
+social:
   -
-    name: Web
-    level: advanced
+    label: github
+    network: github
+    url: 'http://github.com/mounir-bennacer'
+    user: mounir-bennacer
+  -
+    label: linkedin
+    network: linkedin
+    url: 'http://linkedin.com/in/mounir-bennacer'
+    user: mounir-bennacer
+  -
+    label: twitter
+    network: twitter
+    url: 'http://twitter.com/mounir.bennacer'
+    user: mounir.bennacer
+interests:
+  -
+    name: Reading
     keywords:
-      - Linux
-      - LAMP
-      - MVC
-      - REST
-      - GitHub
-      - Docker
-      - JIRA
-      - Docker
-      - VIM
+      - Self-Improvement
+      - Psychology
   -
-    name: JavaScript
-    level: intermediate
-  -
-    name: Scripting
-    level: intermediate
-  -
-    name: Database
-    level: advanced
+    name: Gaming
     keywords:
-      - MySQL
-      - NoSQL
-      - ORM
-      - MongoDB
+      - FPS
+      - RPG
+      - Strategy
+      - Chess
   -
-    name: Backend
-    level: advanced
+    name: Travel
     keywords:
-      - PHP
-      - Laravel
-      - NodeJS
-      - ExpressJS
-      - Python
-      - Go
-      - Docker
-      - MySQL
-      - MongoDB
+      - Algeria
+      - France
+      - 'United Kingdom'
+      - Emirates
+testimonials:
+  -
+    name: 'Ronan-Ghuilhem Matheudi'
+    flavor: professional
+    quote: 'Conscientious and involved, his investment has always been total and always with the aim of arriving at a solution that meets demand. A pedagogue, Mounir knows how to explain to non-specialists the software he has developed, how to use it'
+    private: false
+  -
+    name: 'Frank den Hartog'
+    flavor: professional
+    quote: 'We worked together in a game development project. Mounir is a resposable dedicated projectpartner you can rely on.'
+    private: false
+languages:
+  -
+    language: English
+    level: Moderate
+  -
+    language: Arabic
+    level: Native
+  -
+    language: French
+    level: Native
